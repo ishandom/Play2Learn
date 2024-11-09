@@ -1,1 +1,1 @@
-# Play2Learn Foi um projeto desenvolvido em sala de aula, ao longo do ano, em meu teste de conclusão de curso(TCC).
+# Play2Learn foi um projeto desenvolvido em sala de aula, ao longo do ano, em meu teste de conclusão de curso(TCC). É um projeto prático, então se viu na necessidade de criar um projeto de um jogo básico, com mecânicas extremamente simples, mas que ensinava um pouco de alguma matéria, no caso foi a matemática.
